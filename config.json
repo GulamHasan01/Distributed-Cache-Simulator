@@ -1,0 +1,7 @@
+{
+  "nodes": ["node-1", "node-2", "node-3"],
+  "cache_capacity": 3,
+  "virtual_nodes": 100,
+  "replication_factor": 1,
+  "logging_level": "INFO"
+}
